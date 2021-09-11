@@ -1,0 +1,60 @@
+body {
+  background-color: #000;
+}
+
+.text{
+  margin: 0 30px 30px;
+  font-family: 'Permanent Marker', cursive;
+  color: #4ECCA3;
+}
+
+#roll{
+  background-color: #4ECCA3;
+  color: #232931;
+  padding: 10px;
+  border-radius: 5px;
+  transition: .3s ease-in-out;
+  display: inline-block;
+}
+
+#roll:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+h1 {
+  text-shadow: 5px 0 #232931;
+  font-size: 4.5rem;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Architects Daughter', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Architects Daughter', cursive;
+}
+
+a{
+  color: #4ECCA3;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
